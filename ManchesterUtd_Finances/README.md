@@ -3,14 +3,37 @@
 ## Overview
 This project presents an analysis of **Manchester United's financial performance 2020-2024** using Power BI. Interactive dashboards explore revenues, expenses, and overall trends.
 
-## Preview
-![Dashboard Screenshot](./mutd_power_bi.png)
-
 ## Features
 - Annual revenues and expenses visualizations  
 - Comparison of net profit/loss over the last 5 years  
 - Breakdown by revenue sources (player transfers, broadcasting, Matchday, etc.)  
 - Interactive charts for detailed insights  
+
+## Preview
+![Dashboard Screenshot](./mutd_power_bi.png)
+
+## Dashboard Overview
+
+The Power BI dashboard is divided into three main sections: **Expenses**, **Revenues**, and **Loss/Profit**. Each section contains multiple visualizations and key performance cards to provide a clear overview of Manchester United's financial performance over the last five years.
+
+### Expenses
+- **Clustered Column Chart**: Shows the types of expenses, including **Amortization, Depreciation, Employee Expenses, Operating Expenses, and Transfer Expenses**.  
+- **Donut Chart**: Displays the **Expense Distribution**.  
+- **Stacked Column Chart**: Shows **Total Expenses per Year**.  
+- **Cards**: Highlight **Highest Expense Component, Expenses Year-over-Year %, Transfer Expenses, Profit Year-over-Year %, and Total Expenses**.
+
+### Revenues
+- **Clustered Column Chart**: Shows the types of revenue, including **Commercial Revenue, Broadcasting Revenue, Matchday Revenue, and Transfer Income**.  
+- **Donut Chart**: Displays the **Revenue Distribution**.  
+- **Stacked Column Chart**: Shows **Total Revenue per Year**.  
+- **Cards**: Highlight **Highest Revenue Component, Revenue Year-over-Year %, Transfer Income, Profit Year-over-Year %, and Total Revenue**.
+
+### Loss/Profit
+- **Line Chart**: Shows **Loss/Profit per Year**.  
+- **Stacked Bar Chart**: Compares **Total Revenue vs Total Expenses**.  
+- **Waterfall Chart**: Also compares **Revenue vs Expenses** to show financial changes.  
+- **Cards**: Highlight **Total Revenue, Total Expenses, Profit Margin %, Profit Year-over-Year %, and Total Loss/Profit**.
+
 
 ## Tools
 - Power BI Desktop  
