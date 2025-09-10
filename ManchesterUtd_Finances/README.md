@@ -1,7 +1,7 @@
 # Manchester United Financial Analysis - Last 5 Years
 
 ## Overview
-This project presents an analysis of **Manchester United's financial performance over the last five years** using Power BI. Interactive dashboards explore revenues, expenses, and overall trends.
+This project presents an analysis of **Manchester United's financial performance 2020-2024** using Power BI. Interactive dashboards explore revenues, expenses, and overall trends.
 
 ## Preview
 ![Dashboard Screenshot](./mutd_power_bi.png)
@@ -9,7 +9,7 @@ This project presents an analysis of **Manchester United's financial performance
 ## Features
 - Annual revenues and expenses visualizations  
 - Comparison of net profit/loss over the last 5 years  
-- Breakdown by revenue sources (ticket sales, broadcasting, sponsorship, etc.)  
+- Breakdown by revenue sources (player transfers, broadcasting, Matchday, etc.)  
 - Interactive charts for detailed insights  
 
 ## Tools
