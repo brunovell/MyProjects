@@ -9,8 +9,18 @@ This project presents an analysis of **Manchester United's financial performance
 - Breakdown by revenue sources (player transfers, broadcasting, Matchday, etc.)  
 - Interactive charts for detailed insights  
 
-## Preview
-![Dashboard Screenshot](./mutd_power_bi.png)
+## Expenses Preview
+![Dashboard Screenshot](.manutd_power_bi_expenses.png)
+
+## Revenues Preview
+![Dashboard Screenshot](.manutd_power_bi_revenues.png)
+
+## Loss/Profit Preview
+![Dashboard Screenshot](.mutd_power_bi_lossprofit.png)
+
+
+
+
 
 ## Dashboard Overview
 
