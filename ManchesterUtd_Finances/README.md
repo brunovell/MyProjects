@@ -14,7 +14,11 @@ This project presents an analysis of **Manchester United's financial performance
 
 ## Tools
 - Power BI Desktop  
-- Excel / CSV for raw data  
+- Excel / CSV for raw data
+
+## Data Source
+The data used in this project comes from **Official Manchester United financial reports**, published annually by the club:  
+[Manchester United Annual Reports](https://ir.manutd.com/financial-information/annual-reports)
 
 ## Author
 Bruno Vellozo
