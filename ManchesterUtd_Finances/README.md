@@ -1,4 +1,4 @@
-# Manchester United Finances - Last 5 Years
+# Manchester United Financial Analysis - Last 5 Years
 
 ## Overview
 This project presents an analysis of **Manchester United's financial performance over the last five years** using Power BI. Interactive dashboards explore revenues, expenses, and overall trends.
