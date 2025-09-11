@@ -120,3 +120,5 @@ The data used in this project comes from **Official Manchester United financial 
 
 ## Author
 Bruno Vellozo
+email: brunopvellozo@gmail.com
+Linkedin: https://www.linkedin.com/in/brunopvellozo/
