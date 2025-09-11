@@ -105,7 +105,6 @@ Based on the financial analysis of Manchester United (2020–2024), the followin
 4. **Use 2023 as a Model Year:**  
    - This year successfully **reduced expenses** while achieving the **highest revenue growth**.  
    - Implement similar strategies in future seasons: balance spending, prioritize high-return investments, and control recurring costs.
-   - 
 **Outcome:**  
 By implementing these measures, the club can aim for **consistent profitability**, better financial health, and more strategic growth in the coming years.
 
