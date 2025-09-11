@@ -62,26 +62,52 @@ The Power BI dashboard is divided into three main sections: **Expenses**, **Reve
 - Since then, broadcasting revenue has **never fallen below £200M**, showing strong resilience in this revenue stream after COVID-19.
 
 **2021/2022:**  
-- Revenues recovered significantly, driven by **broadcasting and commercial deals**.  
-- Total expenses increased slightly, mainly due to **player wages and amortization**, but profit margins improved.  
-- Transfer income contributed positively to overall results.
+- Revenues recovered significantly, thanks to the **return of fans to stadiums**, which restored **Matchday Revenue to approximately £100M**.   
+- Total expenses increased slightly, mainly due to **Player Wages and Player Transfers**.
+- This year also recorded the **highest loss** in the period, totaling **£304M**.
 
 **2022/2023:**  
 - **Matchday revenue** began returning as stadium attendance increased.  
-- Operating expenses remained stable; however, transfer expenses spiked due to new player acquisitions.  
-- Overall profit remained positive, with growth YoY in both revenue and profit.
+- This period saw the **highest year-on-year revenue growth** in the analyzed timeframe and **the only period in which the club reduced its total debt** compared to the previous year.
+- Overall, this was the **est period for the club in terms of trying to balance finances**, showing strong recovery and cost management.
 
 **2023/2024:**  
 - Revenues stabilized across **all streams**, with broadcasting and commercial revenue being the largest contributors.  
 - Expenses continued to rise modestly, but careful cost management maintained profitability.  
-- Loss/profit trends indicate a healthy financial position compared to prior years.
+- This was the year with the **highest spending on player transfers** (£246M), significantly impacting **Total Expenses** 
+- It was also the year that **generated the highest transfer income**, totaling **£117M**, boosting overall revenue.  
 
 **Key Takeaways:**  
-- Manchester United’s revenue is **highly dependent on broadcasting and commercial deals**, while matchday income is more volatile.  
-- Employee and transfer expenses are the largest cost drivers.  
-- Profitability fluctuates with **transfer activity and extraordinary events** (like COVID-19).  
-- The club demonstrates strong **financial resilience**, recovering revenue quickly after downturns.  
 
+- The **COVID-19 pandemic** had a significant impact on the club's **Matchday Revenues**, but on the other hand, it **revolutionized broadcasting revenue**, which has remained much higher in the following years compared to pre-pandemic levels.  
+- The club's revenues are **consistently growing year after year**, showing that they are doing a good job in generating income.  
+- However, the club is **spending more than it generates**, leading to **losses in almost every year**.  
+- **2022** was the **worst year in terms of loss/profit**, with a **£304M loss** and an **increase of £230M in expenses** compared to the previous year.  
+- **2023** was the **only year in which total expenses decreased** compared to the previous year. It was also the year with the **largest revenue increase**. This year can be considered a **model for balancing finances**, showing how to achieve higher revenue while controlling expenses.
+
+## Solution / Recommendations
+
+Based on the financial analysis of Manchester United (2020–2024), the following recommendations can help improve the club's financial stability and profitability:
+
+1. **Control Transfer Spending:**  
+   - Player transfer expenses are consistently high, often exceeding revenues.  
+   - Implement a more strategic transfer policy, focusing on value-for-money signings and avoiding excessive spending in a single season.
+
+2. **Maximize Revenue Streams:**  
+   - Broadcasting and commercial revenue are strong and resilient.  
+   - Continue to expand commercial deals and explore new sponsorship opportunities.  
+   - Maintain high engagement with fans to support Matchday Revenue growth.
+
+3. **Optimize Operational Costs:**  
+   - Employee and operational expenses are major cost drivers.  
+   - Review contracts and operating costs to identify potential savings without affecting performance.
+
+4. **Use 2023 as a Model Year:**  
+   - This year successfully **reduced expenses** while achieving the **highest revenue growth**.  
+   - Implement similar strategies in future seasons: balance spending, prioritize high-return investments, and control recurring costs.
+   - 
+**Outcome:**  
+By implementing these measures, the club can aim for **consistent profitability**, better financial health, and more strategic growth in the coming years.
 
 
 ## Tools
