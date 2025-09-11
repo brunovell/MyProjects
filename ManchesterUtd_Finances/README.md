@@ -5,12 +5,6 @@ This project presents an analysis of **Manchester United's financial performance
 
 The financial data was originally published as **PDF reports** by the club. I extracted the information, transformed it into **Excel** using **Power Query**, and modeled the data to prepare it for visualization.  
 
-This process highlights my ability to:
-- Collect and clean data from non-structured sources (PDFs)  
-- Use Power Query for **ETL (Extract, Transform, Load)** operations  
-- Build a reliable data model in Power BI  
-- Create interactive dashboards that explore revenues, expenses, and overall financial trends
-
 ## Features
 - Annual revenues and expenses visualizations  
 - Comparison of net profit/loss over the last 5 years  
@@ -105,13 +99,20 @@ Based on the financial analysis of Manchester United (2020–2024), the followin
 4. **Use 2023 as a Model Year:**  
    - This year successfully **reduced expenses** while achieving the **highest revenue growth**.  
    - Implement similar strategies in future seasons: balance spending, prioritize high-return investments, and control recurring costs.
+
+
 **Outcome:**  
 By implementing these measures, the club can aim for **consistent profitability**, better financial health, and more strategic growth in the coming years.
 
 
 ## Tools
-- Power BI Desktop  
-- Excel / CSV for raw data
+- Power BI Desktop – for data modeling, dashboards, and visualizations
+- Excel / CSV – for raw data handling, cleaning, and transformations
+- Power Query – for extracting and transforming data from PDFs to Excel
+- DAX (Data Analysis Expressions) – for creating calculations, measures, and KPIs in Power BI
+- Data Cleaning & Transformation Techniques – handling messy data from PDFs
+- Data Visualization & Reporting – creating charts, cards, and dashboards
+- Git & GitHub – version control, repository management
 
 ## Data Source
 The data used in this project comes from **Official Manchester United financial reports**, published annually by the club:  
