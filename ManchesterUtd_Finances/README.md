@@ -18,7 +18,7 @@ The financial data was originally published as **PDF reports** by the club. I ex
 ![Dashboard Screenshot](manutd_power_bi_revenues.png)
 
 ## Loss/Profit Preview
-![Dashboard Screenshot](mutd_power_bi_lossprofit.png)
+![Dashboard Screenshot](lossprofit.png)
 
 
 
