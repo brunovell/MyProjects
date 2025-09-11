@@ -1,7 +1,15 @@
 # Manchester United Financial Analysis - Last 5 Years
 
 ## Overview
-This project presents an analysis of **Manchester United's financial performance 2020-2024** using Power BI. Interactive dashboards explore revenues, expenses, and overall trends.
+This project presents an analysis of **Manchester United's financial performance (2020–2024)** using Power BI.  
+
+The financial data was originally published as **PDF reports** by the club. I extracted the information, transformed it into **Excel** using **Power Query**, and modeled the data to prepare it for visualization.  
+
+This process highlights my ability to:
+- Collect and clean data from non-structured sources (PDFs)  
+- Use Power Query for **ETL (Extract, Transform, Load)** operations  
+- Build a reliable data model in Power BI  
+- Create interactive dashboards that explore revenues, expenses, and overall financial trends
 
 ## Features
 - Annual revenues and expenses visualizations  
