@@ -10,7 +10,7 @@ This project presents an analysis of **Manchester United's financial performance
 - Interactive charts for detailed insights  
 
 ## Expenses Preview
-![Dashboard Screenshot](.ManchesterUtd_Finances/manutd_power_bi_expenses.png)
+![Dashboard Screenshot](.manutd_power_bi_expenses.png)
 
 ## Revenues Preview
 ![Dashboard Screenshot](.manutd_power_bi_revenues.png)
