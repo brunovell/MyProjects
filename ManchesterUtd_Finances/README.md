@@ -119,6 +119,6 @@ The data used in this project comes from **Official Manchester United financial 
 [Manchester United Annual Reports](https://ir.manutd.com/financial-information/annual-reports)
 
 ## Author
-Bruno Vellozo
-email: brunopvellozo@gmail.com
-Linkedin: https://www.linkedin.com/in/brunopvellozo/
+**Name:** Bruno Vellozo  
+**Email:** brunopvellozo@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/brunopvellozo
